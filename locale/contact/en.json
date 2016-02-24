@@ -1,0 +1,11 @@
+{
+  "HEADLINE": "What an awesome module!2",
+  "PARAGRAPH": "Srsly!",
+  "PASSED_AS_TEXT": "Hey there! Im passed as text value!2",
+  "PASSED_AS_ATTRIBUTE": "Im passed as attribute value, cool ha?2",
+  "PASSED_AS_INTERPOLATION": "Beginners! Im interpolated!2",
+  "VARIABLE_REPLACEMENT": "Hi {{name}}2",
+  "BUTTON_LANG_DE": "German2",
+  "BUTTON_LANG_EN": "English2"
+
+}
